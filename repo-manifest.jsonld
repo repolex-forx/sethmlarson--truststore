@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sethmlarson/truststore/commit/98195f0d27c3594899feb8d04a47f081959c6ba5",
       "git:hexsha": "98195f0d27c3594899feb8d04a47f081959c6ba5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T06:10:11.770505+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sethmlarson/truststore/commit/93df4b4dc9f22510506689cfea9cd5595a96e364",
