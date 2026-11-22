@@ -1,0 +1,7 @@
+[2026-11-22T00:37:33Z] === AST ITERATION 1 START | repo=sethmlarson/truststore sha=0714f72a ===
+[2026-11-22T00:37:33Z] [iter=1] PHASE START: ast repo=sethmlarson/truststore sha=0714f72a
+[2026-11-22T00:37:33Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T00:37:40Z] [iter=1] AST chunks built count=1 triples=86214
+[2026-11-22T00:37:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/0714f72a739d182cdb8502f4e1bb4cf7ebfe4eb5/.complete
+[2026-11-22T00:37:40Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-11-22T00:37:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
