@@ -118,6 +118,58 @@
       ],
       "ast": [
         "aggregate/ast/0714f72a739d182cdb8502f4e1bb4cf7ebfe4eb5/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0714f72a739d182cdb8502f4e1bb4cf7ebfe4eb5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.34.2",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "6e83187b8feb273ed4c6cdab5efd8d54901dfab3",
+          "githubTag": "v2.34.2",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/requests/sessions.py"
+        },
+        {
+          "packageName": "urllib3",
+          "ecosystem": "PYPI",
+          "version": "2.8.0",
+          "githubOrg": "urllib3",
+          "githubRepo": "urllib3",
+          "githubCommit": "b1d30ab61fe0db8f11092805e8c5ac43e091064a",
+          "githubTag": "2.8.0",
+          "githubUrl": "https://github.com/urllib3/urllib3",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/urllib3/_request_methods.py"
+        },
+        {
+          "packageName": "aiohttp",
+          "ecosystem": "PYPI",
+          "version": "3.14.5",
+          "githubOrg": "aio-libs",
+          "githubRepo": "aiohttp",
+          "githubCommit": "f17c631bddcfd4ec712342db28f1d3381a3fec71",
+          "githubTag": "v3.14.5",
+          "githubUrl": "https://github.com/aio-libs/aiohttp",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/aiohttp/client.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
